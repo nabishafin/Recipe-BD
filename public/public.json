@@ -1,0 +1,97 @@
+[
+    {
+        "recipe_image": "https://i.ibb.co.com/FzWSp4X/Chicken-Stir-Fry.jpg",
+        "recipe_id": 1,
+        "recipe_name": "Chicken Stir Fry",
+        "short_description": "A quick and flavorful chicken stir fry with vegetables.",
+        "ingredients": [
+            "550 g chicken",
+            "120 ml soy sauce",
+            "200 g basil leaf",
+            "400 g mushroom",
+            "1 bell pepper",
+            "2 cloves garlic"
+        ],
+        "preparing_time": "30 min",
+        "calories": "320 calories"
+    },
+    {
+        "recipe_image": "https://i.ibb.co.com/X31zpHG/Spaghetti-Bolognese.jpg",
+        "recipe_id": 2,
+        "recipe_name": "Spaghetti Bolognese",
+        "short_description": "Classic Italian pasta dish with a rich meat sauce.",
+        "ingredients": [
+            "400 g spaghetti",
+            "300 g minced beef",
+            "1 can tomato sauce",
+            "1 onion",
+            "2 cloves garlic",
+            "50 g parmesan cheese"
+        ],
+        "preparing_time": "45 min",
+        "calories": "480 calories"
+    },
+    {
+        "recipe_image": "https://i.ibb.co.com/9pH2v8b/Vegetable-Curry.webp",
+        "recipe_id": 3,
+        "recipe_name": "Vegetable Curry",
+        "short_description": "A hearty curry packed with seasonal vegetables.",
+        "ingredients": [
+            "200 g cauliflower",
+            "150 g carrots",
+            "100 g peas",
+            "1 can coconut milk",
+            "2 tbsp curry powder",
+            "1 onion"
+        ],
+        "preparing_time": "40 min",
+        "calories": "250 calories"
+    },
+    {
+        "recipe_image": "https://i.ibb.co.com/QmGgyPY/fluffy-pancakes.jpg",
+        "recipe_id": 4,
+        "recipe_name": "Fluffy Pancakes",
+        "short_description": "Light and fluffy pancakes perfect for breakfast.",
+        "ingredients": [
+            "200 g flour",
+            "2 eggs",
+            "300 ml milk",
+            "50 g sugar",
+            "1 tsp baking powder",
+            "1 pinch salt"
+        ],
+        "preparing_time": "20 min",
+        "calories": "210 calories"
+    },
+    {
+        "recipe_image": "https://i.ibb.co.com/dgWbKCX/Caesar-Salad.webp",
+        "recipe_id": 5,
+        "recipe_name": "Caesar Salad",
+        "short_description": "Crisp romaine lettuce with a creamy dressing.",
+        "ingredients": [
+            "1 head romaine lettuce",
+            "50 g parmesan cheese",
+            "100 g croutons",
+            "2 tbsp Caesar dressing",
+            "1 clove garlic"
+        ],
+        "preparing_time": "15 min",
+        "calories": "180 calories"
+    },
+    {
+        "recipe_image": "https://i.ibb.co.com/2g5PV3g/Dark-Chocolate.jpg",
+        "recipe_id": 6,
+        "recipe_name": "Chocolate Brownies",
+        "short_description": "Rich and fudgy chocolate brownies.",
+        "ingredients": [
+            "200 g dark chocolate",
+            "150 g butter",
+            "250 g sugar",
+            "4 eggs",
+            "100 g flour",
+            "1 tsp vanilla extract"
+        ],
+        "preparing_time": "30 min",
+        "calories": "350 calories"
+    }
+]
