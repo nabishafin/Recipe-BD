@@ -6,17 +6,28 @@ const RecipeCart = ({ recpie }) => {
     return (
         <div>
             <div className="card bg-base-100  shadow-xl">
-                <figure className="px-5 pt-5">
+                <figure className="px-2 pt-2">
                     <img
                         src={recipe_image}
                         alt="Shoes"
                         className="rounded-xl" />
                 </figure>
-                <div className="card-body items-center text-center">
-                    <h2 className="card-title">Shoes!</h2>
-                    <p>If a dog chews shoes whose shoes does he choose?</p>
-                    <div className="card-actions">
-                        <button className="btn btn-primary">Buy Now</button>
+                <div className='p-2'>
+                    <h2 className="card-title font-bold mb-2">{recipe_name}</h2>
+                    <p className='border-b pb-2'>{short_description}</p>
+
+                    <h2 className='text-xl font-bold mt-1 mb-1'>Ingredients: {ingredients.length}</h2>
+                    <div className='border-b'>
+                        {
+                            ingredients.map(i => <li className='text-gray-600'>{i}</li>)
+                        }
+                    </div>
+                    <div className='mt-1 flex  justify-between items-center pr-6'>
+                        <p className=' font-bold'><i className="fa-regular fa-clock"></i> {preparing_time}</p>
+                        <p className=' font-bold'><i class="fa-solid fa-fire-flame-curved"></i> {calories}</p>
+                    </div>
+                    <div className='mt-2'>
+                        <button className=' hover:bg-[#0BE58A] p-1 rounded-lg border-2 border-[#0BE58A] w-full backdrop-blur-md font-bold '>Want to Cook</button>
                     </div>
                 </div>
             </div>

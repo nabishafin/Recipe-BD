@@ -8,9 +8,7 @@
             "550 g chicken",
             "120 ml soy sauce",
             "200 g basil leaf",
-            "400 g mushroom",
-            "1 bell pepper",
-            "2 cloves garlic"
+            "400 g mushroom"
         ],
         "preparing_time": "30 min",
         "calories": "320 calories"
@@ -24,9 +22,7 @@
             "400 g spaghetti",
             "300 g minced beef",
             "1 can tomato sauce",
-            "1 onion",
-            "2 cloves garlic",
-            "50 g parmesan cheese"
+            "1 onion"
         ],
         "preparing_time": "45 min",
         "calories": "480 calories"
@@ -40,9 +36,7 @@
             "200 g cauliflower",
             "150 g carrots",
             "100 g peas",
-            "1 can coconut milk",
-            "2 tbsp curry powder",
-            "1 onion"
+            "1 can coconut milk"
         ],
         "preparing_time": "40 min",
         "calories": "250 calories"
@@ -56,9 +50,7 @@
             "200 g flour",
             "2 eggs",
             "300 ml milk",
-            "50 g sugar",
-            "1 tsp baking powder",
-            "1 pinch salt"
+            "50 g sugar"
         ],
         "preparing_time": "20 min",
         "calories": "210 calories"
@@ -72,8 +64,7 @@
             "1 head romaine lettuce",
             "50 g parmesan cheese",
             "100 g croutons",
-            "2 tbsp Caesar dressing",
-            "1 clove garlic"
+            "2 tbsp Caesar dressing"
         ],
         "preparing_time": "15 min",
         "calories": "180 calories"
@@ -82,14 +73,12 @@
         "recipe_image": "https://i.ibb.co.com/2g5PV3g/Dark-Chocolate.jpg",
         "recipe_id": 6,
         "recipe_name": "Chocolate Brownies",
-        "short_description": "Rich and fudgy chocolate brownies.",
+        "short_description": "Rich and fudgy chocolate brownies. you should try it.",
         "ingredients": [
             "200 g dark chocolate",
             "150 g butter",
             "250 g sugar",
-            "4 eggs",
-            "100 g flour",
-            "1 tsp vanilla extract"
+            "4 eggs"
         ],
         "preparing_time": "30 min",
         "calories": "350 calories"

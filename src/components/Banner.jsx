@@ -5,7 +5,7 @@ const Banner = () => {
     return (
         <div className=''>
             <div
-                className="hero h-[600px] rounded-xl "
+                className="hero h-[600px] "
                 style={{
                     backgroundImage: "url(https://i.ibb.co.com/0yRzbmP/banner-update.jpg)",
                 }}>
@@ -17,8 +17,8 @@ const Banner = () => {
                             Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem
                             quasi. In deleniti eaque aut repudiandae et a id nisi.
                         </p>
-                        <button className="btn  backdrop-blur-sm border-[#0BE58A] bg-white/30 font-bold">Explore Now</button>
-                        <button className="btn  backdrop-blur-sm bg-white/30 ml-1 border-[#0BE58A]  font-bold">Our Feedback</button>
+                        <button className="btn  backdrop-blur-sm border-[#0BE58A] bg-white/30 font-bold text-white">Explore Now</button>
+                        <button className="btn  backdrop-blur-sm bg-white/30 ml-1 border-[#0BE58A] text-white  font-bold">Our Feedback</button>
                     </div>
                 </div>
             </div>

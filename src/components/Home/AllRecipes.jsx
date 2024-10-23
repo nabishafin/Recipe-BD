@@ -15,7 +15,7 @@ const AllRecipes = () => {
 
 
     return (
-        <div className='border-2 border-purple-600 w-8/12 grid grid-cols-1 lg:grid-cols-3 gap-4'>
+        <div className='border-2 border-purple-600 w-auto md:w-8/12 lg:w-8/12 grid grid-cols-1 lg:grid-cols-3 gap-4'>
             {
                 recpies.map(recpie =>
                     <RecipeCart
