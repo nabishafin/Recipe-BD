@@ -5,7 +5,7 @@ const RecipeCart = ({ recpie }) => {
     console.log(recpie)
     return (
         <div>
-            <div className="card bg-base-100  shadow-xl">
+            <div className="card bg-base-100 border-[1px]">
                 <figure className="px-2 pt-2">
                     <img
                         src={recipe_image}
@@ -17,7 +17,7 @@ const RecipeCart = ({ recpie }) => {
                     <p className='border-b pb-2'>{short_description}</p>
 
                     <h2 className='text-xl font-bold mt-1 mb-1'>Ingredients: {ingredients.length}</h2>
-                    <div className='border-b'>
+                    <div className='border-b pb-1'>
                         {
                             ingredients.map(i => <li className='text-gray-600'>{i}</li>)
                         }
@@ -27,7 +27,7 @@ const RecipeCart = ({ recpie }) => {
                         <p className=' font-bold'><i class="fa-solid fa-fire-flame-curved"></i> {calories}</p>
                     </div>
                     <div className='mt-2'>
-                        <button className=' hover:bg-[#0BE58A] p-1 rounded-lg border-2 border-[#0BE58A] w-full backdrop-blur-md font-bold '>Want to Cook</button>
+                        <button className=' hover:bg-[#0BE58A] p-1 rounded-lg border-[1px] border-[#0BE58A] w-full backdrop-blur-md font-bold '>Want to Cook</button>
                     </div>
                 </div>
             </div>
