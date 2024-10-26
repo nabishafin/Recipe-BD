@@ -10,8 +10,8 @@
             "200 g basil leaf",
             "400 g mushroom"
         ],
-        "preparing_time": "30 min",
-        "calories": "320 calories"
+        "preparing_time": 30,
+        "calories": 320
     },
     {
         "recipe_image": "https://i.ibb.co.com/X31zpHG/Spaghetti-Bolognese.jpg",
@@ -24,8 +24,8 @@
             "1 can tomato sauce",
             "1 onion"
         ],
-        "preparing_time": "45 min",
-        "calories": "480 calories"
+        "preparing_time": 45,
+        "calories": 480
     },
     {
         "recipe_image": "https://i.ibb.co.com/9pH2v8b/Vegetable-Curry.webp",
@@ -38,8 +38,8 @@
             "100 g peas",
             "1 can coconut milk"
         ],
-        "preparing_time": "40 min",
-        "calories": "250 calories"
+        "preparing_time": 40,
+        "calories": 250
     },
     {
         "recipe_image": "https://i.ibb.co.com/QmGgyPY/fluffy-pancakes.jpg",
@@ -52,8 +52,8 @@
             "300 ml milk",
             "50 g sugar"
         ],
-        "preparing_time": "20 min",
-        "calories": "210 calories"
+        "preparing_time": 20,
+        "calories": 210
     },
     {
         "recipe_image": "https://i.ibb.co.com/dgWbKCX/Caesar-Salad.webp",
@@ -66,8 +66,8 @@
             "100 g croutons",
             "2 tbsp Caesar dressing"
         ],
-        "preparing_time": "15 min",
-        "calories": "180 calories"
+        "preparing_time": 15,
+        "calories": 180
     },
     {
         "recipe_image": "https://i.ibb.co.com/2g5PV3g/Dark-Chocolate.jpg",
@@ -80,7 +80,7 @@
             "250 g sugar",
             "4 eggs"
         ],
-        "preparing_time": "30 min",
-        "calories": "350 calories"
+        "preparing_time": 30,
+        "calories": 380
     }
 ]
